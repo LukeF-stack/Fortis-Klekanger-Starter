@@ -1,7 +1,7 @@
 {
-  "name": "wordpress-gatsby-starter",
+  "name": "fortis-klekanger-starter",
   "private": true,
-  "description": "A simple starter for using Wordpress as a headless CMS with Gatsby",
+  "description": "",
   "version": "0.2.0",
   "author": "Kurt Lekanger <kurt@lekanger.no>",
   "dependencies": {
@@ -28,9 +28,7 @@
     "postcss-import": "^12.0.1",
     "postcss-preset-env": "^6.7.0"
   },
-  "keywords": [
-    "gatsby, wordpress, headless, cms"
-  ],
+  "keywords": [],
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
